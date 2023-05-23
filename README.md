@@ -1,4 +1,6 @@
 # FlapGUI
+**Note: This repo is outdated, for up-to-date code,please use [the PyPI repo](https://pypi.org/project/flapgui/).**
+
 Flap is a GUI framework for creating cross-platform GUI applications easily using Tkinter. 
 # Purpose
 FlapGUI is designed to make writing GUI applications as simple as possible, eliminating the learning curve for making functional programs. 
