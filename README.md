@@ -1,4 +1,5 @@
 # FlapGUI
+**NOTE: I have decided to sunset FlapGUI. I will no longer work on it as I am no longer interested in writing programs using the Tkinter framework. That doesn't mean that FlapGUI isn't useful, though.**
 Flap (Framework for making Lightweight and Automatic Programs) is a GUI framework for creating cross-platform GUI applications easily using Tkinter. 
 # Purpose
 FlapGUI is designed to make writing GUI applications as simple as possible, eliminating the learning curve for making functional programs. 
